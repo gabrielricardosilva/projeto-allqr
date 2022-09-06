@@ -1,5 +1,5 @@
 ## Projeto Integrador TI102
-Projeto PetShop feito em NodeJS
+Projeto Integrador do SenacL13 feito em NodeJS
 
 ### Pré-requisitos globais:
 `npm i -g nodemon typescript ts-node`
@@ -10,5 +10,4 @@ Projeto PetShop feito em NodeJS
 ### Para rodar o projeto
 `npm run start-dev`
 
-* Pagina Inicial do projeto
 
